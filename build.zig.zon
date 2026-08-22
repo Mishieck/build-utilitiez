@@ -1,0 +1,14 @@
+.{
+    .name = .build_utilitiez,
+    .version = "0.1.0",
+    .fingerprint = 0x339ee9821e7102f6,
+    .minimum_zig_version = "0.15.1",
+    .dependencies = .{},
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "src",
+        "LICENSE",
+        "README.md",
+    },
+}
